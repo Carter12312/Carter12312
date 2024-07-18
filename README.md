@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Carter Johns and I am a Student at the University of Illinois studying computer science. 
+
+This account has mostly random "_projects_" I have worked on in the past or just little games.
+
+Skills:
+- python
+- java
+- AWS services
 <!--
 **Carter12312/Carter12312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
